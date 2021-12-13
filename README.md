@@ -6,6 +6,9 @@
 
 <br></br>
 
+<p align="right"> <img align="center" src="https://forthebadge.com/images/badges/built-with-love.svg" alt="madewithlove" width="120px" />
+</p>
+
 ## Languages and Technologies 👩‍💻
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -32,3 +35,5 @@
 <div>
  <a href="https://www.linkedin.com/in/aleisi-cruz-quiroga/"><img src="./linkedin.svg" alt="Linkedin" width="120px" alingn="right" ></a>
 </div>
+
+
